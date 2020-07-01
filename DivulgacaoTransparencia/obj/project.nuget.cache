@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "66sPip0RnlhMjj7u7kuw/5ZX0DHfRmoVWWRg76YZ95bf96iTWwZP5Iyehe7tiCLbdMlvzN7p3ti2WC9uFM/jXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\TCC\\DivulgacaoTransparencia\\DivulgacaoTransparencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

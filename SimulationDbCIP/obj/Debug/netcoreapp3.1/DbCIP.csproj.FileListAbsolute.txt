@@ -1,0 +1,13 @@
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\bin\Debug\netcoreapp3.1\DbCIP.exe
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\bin\Debug\netcoreapp3.1\DbCIP.deps.json
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\bin\Debug\netcoreapp3.1\DbCIP.runtimeconfig.json
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\bin\Debug\netcoreapp3.1\DbCIP.runtimeconfig.dev.json
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\bin\Debug\netcoreapp3.1\DbCIP.dll
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\bin\Debug\netcoreapp3.1\DbCIP.pdb
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\obj\Debug\netcoreapp3.1\DbCIP.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\obj\Debug\netcoreapp3.1\DbCIP.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\obj\Debug\netcoreapp3.1\DbCIP.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\obj\Debug\netcoreapp3.1\DbCIP.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\obj\Debug\netcoreapp3.1\DbCIP.dll
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\obj\Debug\netcoreapp3.1\DbCIP.pdb
+C:\Users\Guilherme\source\repos\TCC\SimulationDbCIP\obj\Debug\netcoreapp3.1\DbCIP.genruntimeconfig.cache

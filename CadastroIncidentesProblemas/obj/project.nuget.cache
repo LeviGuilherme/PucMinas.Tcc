@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tq78ZCjUAKttPYh+1v2lXFytsi5nde+92RQyGycLFvnLp2/uZApBUrToJklbhSeRfH15T4hc4TVMnVzVlTvlgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\TCC\\CadastroIncidentesProblemas\\CadastroIncidentesProblemas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
